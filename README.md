@@ -2,6 +2,8 @@
 
 by **Hare** · [@bboB-Bobb](https://github.com/bboB-Bobb) · [YouTube](https://www.youtube.com/@bboB-Bobb)
 
+> 🟢 **Active project** — still in development and kept up to date with new GAME versions.
+
 A streamlined, automated tool for dumping Unity IL2CPP structures using Frida. This tool features an integrated UI that automatically detects running processes, compiles the injection agent, and handles the dumping process.
 
 ## Features
