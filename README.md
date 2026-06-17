@@ -1,5 +1,9 @@
 # Il2Cpp Dumper
 
+by **Hare** · [@bboB-Bobb](https://github.com/bboB-Bobb) · [YouTube](https://www.youtube.com/@bboB-Bobb)
+
+> 🟢 **Active project** — still in development and kept up to date with new GAME versions.
+
 ## Compatibility
 - **Unity Versions:** 5.3.x through 2022.x+
 - **IL2CPP Versions:** v24 through v29+
