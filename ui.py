@@ -51,7 +51,7 @@ class DumperApp:
         main_layout.pack(fill=tk.BOTH, expand=True)
 
         ttk.Label(main_layout, text="Il2Cpp Dumper", style="Header.TLabel").pack(pady=(0, 2))
-        ttk.Label(main_layout, text="Attach Frida and dump assemblies", style="Desc.TLabel").pack(pady=(0, 20))
+        ttk.Label(main_layout, text="by @bboB-Bobb;Hare", style="Desc.TLabel").pack(pady=(0, 20))
 
         selection_frame = ttk.Frame(main_layout)
         selection_frame.pack(fill=tk.X, pady=(0, 20))
@@ -132,9 +132,9 @@ class DumperApp:
         self.console_view.see(tk.END)
         self.console_view.configure(state=tk.DISABLED)
 
-    def print_sys(self, msg): self._push_log(f"[System] {msg}", "sys")
-    def print_err(self, msg): self._push_log(f"[Error] {msg}", "err")
-    def print_success(self, msg): self._push_log(msg, "success")
+    def print_sys(self, msg): self._push_log(f"[+] {msg}", "sys")
+    def print_err(self, msg): self._push_log(f"[x] {msg}", "err")
+    def print_success(self, msg): self._push_log(f"[/] {msg}", "success")
     def print_std(self, msg): self._push_log(msg, "std")
 
     def trigger_dump(self):
