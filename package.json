@@ -1,0 +1,21 @@
+{
+  "name": "Dmper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "frida-compile agent.ts -o agent.js",
+    "watch": "frida-compile agent.ts -o agent.js -w"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "frida-il2cpp-bridge": "^0.13.1"
+  },
+  "devDependencies": {
+    "@types/frida-gum": "^19.3.0",
+    "frida-compile": "^19.0.5"
+  }
+}

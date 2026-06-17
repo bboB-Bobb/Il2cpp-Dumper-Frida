@@ -1,0 +1,3 @@
+@echo off
+echo Starting the UI...
+python ui.py
