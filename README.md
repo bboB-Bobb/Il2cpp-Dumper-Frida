@@ -1,5 +1,7 @@
 # Il2Cpp-Dumper-Frida
 
+by **Hare** · [@bboB-Bobb](https://github.com/bboB-Bobb) · [YouTube](https://www.youtube.com/@bboB-Bobb)
+
 A streamlined, automated tool for dumping Unity IL2CPP structures using Frida. This tool features an integrated UI that automatically detects running processes, compiles the injection agent, and handles the dumping process.
 
 ## Features
