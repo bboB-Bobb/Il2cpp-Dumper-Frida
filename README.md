@@ -2,7 +2,7 @@
 
 by **Hare** · [@bboB-Bobb](https://github.com/bboB-Bobb) · [YouTube](https://www.youtube.com/@bboB-Bobb)
 
-> 🟢 **Active project** — Actively maintained and up to date.
+> 🟢 **Active project.** Actively maintained and up to date.
 
 ## Compatibility
 - **Unity Versions:** 5.3.x through 2022.x+
